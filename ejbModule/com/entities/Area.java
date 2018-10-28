@@ -4,7 +4,7 @@ import java.io.Serializable;
 import javax.persistence.*;
 
 /**
- * Entity implementation class for Entity: Area
+ * Entity implementation class for Entity: Area+prueba git
  *
  */
 @Entity
